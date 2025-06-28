@@ -1,3 +1,11 @@
+![Node.js](https://img.shields.io/badge/Node.js-v20+-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)
+![React](https://img.shields.io/badge/React-18+-61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-336791)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-required-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+
 # Sistem Monitoring dan Rekaman Video Kamera Keamanan
 
 *Powered by ReLogic*
@@ -662,9 +670,6 @@ Project ini menggunakan MIT License. Lihat file LICENSE untuk detail lengkap.
 
 Untuk pertanyaan, bug reports, atau feature requests:
 - GitHub Issues: [Create new issue]
-- Documentation: Lihat file `replit.md` untuk technical details
 - Community: Join discussion di GitHub Discussions
 
 ---
-
-**Catatan**: Sistem ini dirancang untuk environment Replit dengan optimasi khusus untuk deployment di platform tersebut. Untuk deployment di environment lain, mungkin diperlukan penyesuaian konfigurasi.
